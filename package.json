@@ -1,0 +1,19 @@
+{
+  "name": "tech-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tech-talk.js",
+  "scripts": {
+    "start": "node tech-talk",
+    "server": "node test-server"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "got": "^12.0.1",
+    "http-rx": "^2.1.6",
+    "rxjs": "^7.5.2"
+  }
+}
